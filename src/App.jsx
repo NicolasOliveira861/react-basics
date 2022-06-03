@@ -20,7 +20,6 @@ const App = () => {
       <div className="Cards">
         <Card title="#09 - Conditional Render - UserInfo">
           <UserInfo user={{ name: "Fernando" }} />
-          <UserInfo user={{ email: "nicksouza861@gmail.com" }} />
         </Card>
 
         <Card title="#08 - Conditional Render - Odd or Even" color="#5959">
